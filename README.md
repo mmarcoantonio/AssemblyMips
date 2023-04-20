@@ -1,2 +1,3 @@
 # AssemblyMips
-alguns códigos de assembly mips feitos na disciplina de IOC
+PQ = questão de prova
+EQ = questão de exercicio
