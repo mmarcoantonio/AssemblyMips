@@ -2,6 +2,6 @@
 
 Vou usar esse respositório para guardar códigos feitos dentro e fora da faculdade em AssemblyMips  
 
-### códigos feitos na matéria de IOC
+#### por enquanto deixo aqui os códigos feitos na matéria de IOC
+- EQ = questão de exercicio  
 - PQ = questão de prova  
-- EQ = questão de exercicio
