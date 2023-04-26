@@ -1,4 +1,3 @@
-# Codigo Base: https://gist.github.com/benwrk/9d2c8c735885348a270b e https://studylib.net/doc/8545941/home-work-%23-4-solution
 # Equipe: Marco Antonio e Pedro Nery
 # Tema: InsertionSort
 
@@ -103,7 +102,7 @@ print:
 	li	$t2, 0
 	
 loopPrintVetor:
-	bge	$t2, $t1, encerraPrint
+	bge	$t2, $t1, encerraPrint 
 	li	$v0, 1
 	lw	$a0, 0($t0)
 	syscall
@@ -111,7 +110,7 @@ loopPrintVetor:
 	la	$a0, espaço
 	syscall
 	addi	$t0, $t0, 4
-	addi	$t2, $t2, 1
+	addi	$t2, $t2, 1		# incrementa em 1 o contador
 	j	loopPrintVetor
 	
 encerraPrint:
