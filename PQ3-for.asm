@@ -1,6 +1,6 @@
-# codigo que utiliza o comando for
+# questao pede que utilize o comando for
 # para imprimir entre intervalo
-# uma quantidade n de numeros 
+# uma quantidade N de numeros 
 
 .data
 novaLinha : .asciiz "\n"
