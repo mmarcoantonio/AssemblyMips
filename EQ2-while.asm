@@ -1,4 +1,3 @@
-# codigo que utiliza o while
 # questão pede que crie um vetor de inteiros de tamanho N
 # usando o comando WHILE e imprima ele no final
 
