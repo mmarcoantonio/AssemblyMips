@@ -1,4 +1,4 @@
-# codigo que, dado uma entrada N, usa o FOR para imprimir essa quantidade N
+# questão pede que, dado uma entrada N, use o FOR para imprimir essa quantidade N
 # de números 
 
 .data
