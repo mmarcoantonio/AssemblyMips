@@ -1,5 +1,7 @@
-# codigo simples em assembly mips que
-# faz uso do if/else/then
+# questao pede que, lendo dois inteiros N e M,
+# se M > N: TMP = M, M = N, N = TMP
+# senao: TMP = N + M
+# e imprima TMP fazendo o uso do if/then/else
 
 .data
 novaLinha:	.asciiz "\n"
