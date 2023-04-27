@@ -1,4 +1,6 @@
 # codigo que utiliza o SWITCH-CASE e imprime a opcao valida
+# questao pede que leia um inteiro N e usando o SWITCH-CASE
+# imprima o conteudo da opcao N
 
 .data
 entradaValor: .asciiz "escolha um numero\n"
