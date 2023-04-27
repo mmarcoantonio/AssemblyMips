@@ -1,4 +1,4 @@
-# a questao pede que, com a entrada de dois valores (I e J) e utilizando o IF/ELSE/THEN,
+# a questao pede que, com a entrada de dois valores (I e J) e utilizando o IF/THEN/ELSE,
 # se I==J: F = I+J+100 e imprima F
 # senao F = I+J+50 e imprima F
 # saindo do condicional imprima I+J
