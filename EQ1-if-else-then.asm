@@ -1,5 +1,4 @@
-# codigo que utiliza o if/else/then
-# a questao pede que, com a entrada de dois valores (I e J),
+# a questao pede que, com a entrada de dois valores (I e J) e utilizando o IF/ELSE/THEN,
 # se I==J: F = I+J+100 e imprima F
 # senao F = I+J+50 e imprima F
 # saindo do condicional imprima I+J
