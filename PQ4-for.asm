@@ -1,5 +1,5 @@
-# codigo que utiliza o comando FOR
-# para fazer uma soma
+# questao pede que utilize o comando FOR
+# para fazer uma soma em loop
 
 .data
 novaLinha : .asciiz "\n"
