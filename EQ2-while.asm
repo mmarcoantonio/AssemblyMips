@@ -1,5 +1,6 @@
-# codigo que faz um vetor de inteiros de tamanho N
-# usando o comando WHILE e imprime ele no final
+# codigo que utiliza o while
+# questão pede que crie um vetor de inteiros de tamanho N
+# usando o comando WHILE e imprima ele no final
 
 .data
 vetor: .space 30 
